@@ -13,7 +13,8 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "19.0.0.0",
+  "application": "21.0.0.0",
+  "runtime": "10.2",
   "idRanges": [
     {
       "from": 50100,

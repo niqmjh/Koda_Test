@@ -1,5 +1,22 @@
 {
     "version": "0.2.0",
     "configurations": [
+	        {
+            "name": "Koda DEV",
+            "tenant": "957f82e1-e96b-48b1-8243-9d60f7a9628c",
+            "environmentType": "Sandbox",
+            "environmentName": "Dev",
+            "type": "al",
+            "request": "launch",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",            
+            "breakOnRecordWrite": "None",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            // "schemaUpdateMode": "ForceSync"
+            // "schemaUpdateMode": "Recreate"
+        },
     ]
 }
