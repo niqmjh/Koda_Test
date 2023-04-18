@@ -5,6 +5,9 @@
     },
     {
       "path": "TestALGoForKoda"
+    },
+    {
+      "path": "TestALGoForKoda.Test"
     }
   ],
   "settings": {}
