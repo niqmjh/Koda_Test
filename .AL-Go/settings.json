@@ -2,8 +2,5 @@
   "country": "dk",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": [],
-  "environments": [
-    // "TESTDB"
-  ]
+  "bcptTestFolders": []
 }
