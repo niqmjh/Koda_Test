@@ -4,6 +4,6 @@
   "testFolders": [],
   "bcptTestFolders": [],
   "environments": [
-    "TESTDB"
+    // "TESTDB"
   ]
 }
